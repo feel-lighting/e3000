@@ -12,7 +12,7 @@ use Doctrine\ORM\Mapping as ORM;
  * Class Category
  * @package ZIMZIM\AppBundle\Entity
  *
- * @ORM\Table(name="zimzim_categoryproduct")
+ * @ORM\Table(name="e3000_categoryproduct")
  * @ORM\Entity
  */
 class CategoryProduct extends baseCategoryProduct

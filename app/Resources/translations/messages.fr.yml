@@ -244,22 +244,22 @@ views:
                 register: "Inscription"
     itemhome:
         index:
-            title: "Feel, l’expert français de la LED"
-            feel: "Feel lighting c'est :"
+            title: "Eclairage 3000, l’expert français de la LED de puissance"
+            feel: "Eclairage 3000 c'est :"
             hometitle1: "Société lilloise créée en 2002"
-            homepara1: "Spécialisée dans l’étude et la fabrication de dispositifs d’éclairage à LED, Feel se distingue par sa capacité d’innovation et sa réactivité"
+            homepara1: "Spécialisée dans l’étude et la fabrication de dispositifs d’éclairage à LED, Eclairage 3000 se distingue par sa capacité d’innovation et sa réactivité"
             hometitle2: "Maîtrise des technologies"
             homepara2: "Le management thermique, l’optique et bien entendu les platines à LED pilotées par des alimentations également conçues en interne."
-            hometitle3: "Feel c'est aussi..."
+            hometitle3: "Eclairage 3000 c'est aussi..."
             homepara3: " L’association de solutions solaires, éolienne, détection de présence, communication RF. Cela nous permet de répondre aux exigences techniques des clients aux conditions économiques définies à l’origine du projet."
             hometitle4: "Fabrication française"
             homepara4: "Notre process fabrication est intégralement réalisé en France afin de garantir une qualité irréprochable. Toutes nos conceptions sont réalisées rigoureusement selon les normes applicables."
-            titleeco: "Feel -  Les LED - L'écologie"
+            titleeco: "Eclairage 3000 -  Les LED - L'écologie"
             paraeco:  >
-                Feel est le spécialiste dans l’éclairage à base de LED, et solutions de câblages pour les professionnels.<br />
-                Feel c'est une large gamme de produits de projecteurs LED, et tubes LED. Tous plus respectueux de l’environnement.
+                Eclairage 3000 est le spécialiste dans l’éclairage à base de LED, et solutions de câblages pour les professionnels.<br />
+                Eclairage 3000 c'est une large gamme de produits de projecteurs LED, et tubes LED. Tous plus respectueux de l’environnement.
                 En effet l’utilisation d’éclairage permet de diviser par trois la production de CO2 et de diminuer considérablement sa consommation d’énergie.<br />
-        connectadmin: "feel-connect"
+        connectadmin: "eclairage3000-connect"
     product:
         showslug:
             feature: "Caractéristiques"

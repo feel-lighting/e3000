@@ -14,7 +14,7 @@ use APY\DataGridBundle\Grid\Mapping as GRID;
  * @package AppBundle\Entity
  *
  * @Gedmo\Tree(type="nested")
- * @ORM\Table(name="zimzim_category")
+ * @ORM\Table(name="e3000_category")
  * @ORM\Entity(repositoryClass="AppBundle\Entity\CategoryRepository")
  * @ORM\HasLifecycleCallbacks
  */

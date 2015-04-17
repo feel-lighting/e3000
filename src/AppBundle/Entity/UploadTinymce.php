@@ -10,7 +10,7 @@ use Symfony\Component\Validator\Constraints as Assert;
 /**
  * UploadTinymce
  *
- * @ORM\Table(name="zimzim_uploadtinymce")
+ * @ORM\Table(name="e3000_uploadtinymce")
  * @ORM\Entity(repositoryClass="ZIMZIM\ToolsBundle\Model\UploadTinymceRepository")
  * @ORM\HasLifecycleCallbacks
  *

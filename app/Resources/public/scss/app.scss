@@ -1,4 +1,6 @@
 @import "normalize";
+@import "foundation/functions";
+@import "_zim_settings";
 @import "_settings";
 @import "_foundation_mod";
 @import "_icoonmoon";
@@ -12,10 +14,6 @@ $grey: #333333;
 $white: #FFFFFF;
 $lightwhite: #F6F6F6;
 
-$darkgrey: #696C6D;
-$darkblue: #4A597E;
-$blue: #8598BD;
-$lightblue: #afbde1;
 
 .bgblue{
     color: $blue !important;
@@ -189,8 +187,7 @@ span.logo-small-vendor {
 
 /************************ Top bar **************/
 img.img-navbar{
-    margin: 25px 0 25px 15px;
-    height: 20px;
+    height: 70px;
 }
 /************** COLOR **********************/
 .bg-lightwhite {
@@ -275,7 +272,7 @@ p.paratitle {
 
 h1.headertitle {
     font-size: 4rem;
-    color: $blue;
+    color: $primary-color;
     padding: 1.3rem 0 0;
 }
 img.imageheadertitle{
