@@ -50,16 +50,16 @@ views:
             needlogin: "Merci de vous connecter"
             login: "Connexion"
             contact: >
-                FEEL<br />
-                3 bis Rue de la Censé des Raisnes 59710 Ennevelin, France<br />
-                +33 3 20 96 05 59<br />
-                feel-lighting.fr<br />
-                Fabricant de luminaires<br />
+                Eclairage 3000<br />
+                100 Quai du Sartel, 59100 Roubaix, France<br />
+                +33 3 20 83 81 55<br />
+                http://www.eclairage-3000.fr<br />
+                Fabricant de LED de puissance<br />
         mention:
             title: "Mentions légales"
-            subheading1: "Feel, l’expert français de la LED"
+            subheading1: "Eclairage 3000, l’expert français de la LED de puissance"
             paragraph1: >
-                En accédant et en utilisant le site de la société Feel maintenant et à n’importe quel moment dans le futur, vous acceptez les conditions suivantes : bien que nous ayons pris soin d’assurer l’exactitude des informations qui se trouvent sur le site de la société Feel, l’information sur ce site est fournie sans représentation ou garantie. En aucun cas la société Feel ne sera responsable à propos de l’utilisation des informations disponibles, sauf indication contraire. La société Feel ne garantit pas que les sites ou les serveurs qui mettent à disposition ce site sont dépourvus de tout virus ou de tout autre élément nuisible. La société Feel se réserve le droit de modifier ou de mettre à jour les informations mises à votre disposition sur le site à n’importe quel moment sans avis préalable. Les informations fournies sur le site peuvent uniquement être utilisées, copiées ou distribuées sans être modifiées dans un but d’information personnel et doivent stipuler la mention copyright « Feel Lighting ». Le copyright du site et de son contenu demeure la propriété de la société Feel. Tous droits de reproduction réservés.
+                En accédant et en utilisant le site de la société Eclairage 3000 maintenant et à n’importe quel moment dans le futur, vous acceptez les conditions suivantes : bien que nous ayons pris soin d’assurer l’exactitude des informations qui se trouvent sur le site de la société Eclairage 3000, l’information sur ce site est fournie sans représentation ou garantie. En aucun cas la société Eclairage 3000 ne sera responsable à propos de l’utilisation des informations disponibles, sauf indication contraire. La société Eclairage 3000 ne garantit pas que les sites ou les serveurs qui mettent à disposition ce site sont dépourvus de tout virus ou de tout autre élément nuisible. La société Eclairage 3000 se réserve le droit de modifier ou de mettre à jour les informations mises à votre disposition sur le site à n’importe quel moment sans avis préalable. Les informations fournies sur le site peuvent uniquement être utilisées, copiées ou distribuées sans être modifiées dans un but d’information personnel et doivent stipuler la mention copyright « Eclairage 3000 Lighting ». Le copyright du site et de son contenu demeure la propriété de la société Eclairage 3000. Tous droits de reproduction réservés.
         termsandconditions:
             title: "Conditions générales de vente"
             subheading1: "GÉNÉRALITÉS"
@@ -73,7 +73,7 @@ views:
                 l’accusé de réception de commande.
             subheading2: "DEVIS – OFFRE"
             paragraph2: >
-                Tout devis ou offre n’engage FEEL que pour la période de validité
+                Tout devis ou offre n’engage Eclairage 3000 que pour la période de validité
                 indiquée. En l’absence de toute indication de durée, l’offre sera
                 valable durant un mois à compter de la date d’émission.
             subheading3: "ANNULATION"
@@ -98,7 +98,7 @@ views:
                 pas données en temps utile, par des retards de nos principaux
                 fournisseurs, et de manière générale pour tous cas de force
                 majeure (guerre, incendie, grèves, ...).
-                Dans le cas où FEEL assure le transport, la marchandise est
+                Dans le cas où Eclairage 3000 assure le transport, la marchandise est
                 réputée de plein droit avoir été livrée en bon état à défaut de
                 réclamations détaillées sur le bon de livraison.
                 Il appartient au client de vérifier les marchandises dès leur
@@ -107,7 +107,7 @@ views:
                 émises.
                 Les marchandises voyagent aux risques et périls du client, quel
                 que soient le mode de transport ou les modalités de règlement
-                du transport (FEEL, Client ou Tiers Transporteur).
+                du transport (Eclairage 3000, Client ou Tiers Transporteur).
             subheading5: "GARANTIES"
             paragraph5: >
                 A l’égard de l’Acquéreur, nous assurons la responsabilité
@@ -139,7 +139,7 @@ views:
                 magasins, emballage non inclus.
                 Pour les fournitures additionnelles à une commande principale,
                 les prix et nouveaux délais seront discutés spécialement entre
-                FEEL et le Client.
+                Eclairage 3000 et le Client.
             subheading7: "CONDITIONS DE PAIEMENT"
             paragraph7: >
                 A défaut de clauses particulières, nos factures sont payables sans
@@ -150,8 +150,8 @@ views:
                 d’une indemnité de 15% de clause pénale en sus de l’application
                 d’intérêt de retard selon un taux calculé à 1,5 fois le taux d’intérêt
                 légal ainsi que la déchéance du terme de toutes autres factures
-                qui pourraient exister entre FEEL et le Client.
-                Le non-paiement à l’échéance donne de plein droit à FEEL la
+                qui pourraient exister entre Eclairage 3000 et le Client.
+                Le non-paiement à l’échéance donne de plein droit à Eclairage 3000 la
                 suspension de toute autre production en cours destinée au client.
                 Si lors d’une commande précédente, le Client s’est soustrait à
                 l’une de ses obligations (retard de paiement...), un refus pourra lui
@@ -164,7 +164,7 @@ views:
                 acceptées sans aucune réserve.
             subheading8: "RÉSERVE DE PROPRIÉTÉ"
             paragraph8: >
-                FEEL conserve la propriété des marchandises vendues jusqu’au
+                Eclairage 3000 conserve la propriété des marchandises vendues jusqu’au
                 paiement effectif de l’intégralité du prix en principal et accessoire.
                 Le défaut de paiement peut entraîner la revendication des
                 marchandises concernées.
@@ -184,7 +184,7 @@ views:
             subheading1: "Historique"
             paragraph1-1: >
                 <strong>1er avril 2002</strong><br />
-                Création de la société FEEL LIBRA (S.A.R.L.) par M. Alexandre RICHARD.<br/>
+                Création de la société Eclairage 3000 LIBRA (S.A.R.L.) par M. Alexandre RICHARD.<br/>
                 Deux activités distinctes cohabitent :<br/>
                 - La fabrication de balance Roberval (suite à la reprise de l’outil TESTUT)<br/>
                 - La sous-traitance de faisceaux & fabrication de cartes électroniques<br/><br/>
@@ -196,9 +196,9 @@ views:
                 <strong>Mai 2009</strong><br />
                 Arrivée dans ses locaux.<br /><br />
                 <strong>Juillet 2009</strong><br />
-                Création d’une gamme de dispositifs d’éclairage « Feel » fabriqués en France et d’un département ReeFeel dédié à l’éclairage récifal pour aquariums.<br /><br />
+                Création d’une gamme de dispositifs d’éclairage « Eclairage 3000 » fabriqués en France et d’un département ReeEclairage 3000 dédié à l’éclairage récifal pour aquariums.<br /><br />
                 <strong>Août 2011</strong><br />
-                La société Feel évolue et change son statut en SAS (société par action simplifiée).<br /><br />
+                La société Eclairage 3000 évolue et change son statut en SAS (société par action simplifiée).<br /><br />
                 <strong>Janvier 2013</strong><br />
                 Augmentation du capital social par incorporation de réserve pour atteindre 112 710€.<br />
                 Création des premières applications des éclairages à LED secteur (DDR).<br /><br />
@@ -206,19 +206,19 @@ views:
                 Déploiement de l’effectif du bureau d’études.<br />
             subheading2: "Nos produits"
             paragraph2-1: >
-                Depuis 2009, la société Feel s’est spécialisée dans <strong>l’étude et la fabrication de dispositifs d’éclairage à LED</strong> et se distingue par sa capacité d’innovation et sa réactivité.<br />
+                Depuis 2009, la société Eclairage 3000 s’est spécialisée dans <strong>l’étude et la fabrication de dispositifs d’éclairage à LED</strong> et se distingue par sa capacité d’innovation et sa réactivité.<br />
                 Forte de 6 années d’expérience dans l’utilisation de LED de puissance, elle maîtrise les technologies associées, à savoir le management thermique, l’optique et bien entendu les platines à LED pilotées par des alimentations également conçues en interne.<br />
-                Aujourd’hui Feel propose une large gamme de produits : <strong>projecteurs, tubes, dalles, réglettes à LED</strong>, etc., tous plus respectueux de l’environnement. L’utilisation d’éclairage permet en effet de diviser par trois la production de CO2 et de diminuer considérablement sa consommation d’énergie.<br />
-                Feel est également très souvent sollicitée pour aménager des produits existants ou développer des produits spécifiques sur cahier des charges clients.<br />
+                Aujourd’hui Eclairage 3000 propose une large gamme de produits : <strong>projecteurs, tubes, dalles, réglettes à LED</strong>, etc., tous plus respectueux de l’environnement. L’utilisation d’éclairage permet en effet de diviser par trois la production de CO2 et de diminuer considérablement sa consommation d’énergie.<br />
+                Eclairage 3000 est également très souvent sollicitée pour aménager des produits existants ou développer des produits spécifiques sur cahier des charges clients.<br />
                 L’association de solutions solaires, éolienne, domotique, communication RF nous permet de répondre aux exigences techniques des clients aux conditions économiques définies à l’origine du projet.<br />
                 L’étude et la réalisation de nos produits fabriqués en France sont réalisées selon des critères de qualité internes similaires à la norme ISO 9001 v2000.<br />
             subheading3: "L'équipe"
             paragraph3: >
-                Direction commerciale : M. Alexandre Richard – arichard.feel@orange.fr<br />
-                Administration : M. Julien Finez – jfinez.feel@orange.fr<br />
-                Industrialisation : M. Régis Marquette – rmarquette.feel@orange.fr<br />
-                Bureau d’études : M. Augustin Ségard – asegard.feel@orange.fr<br />
-                Service qualité : contact.feel@orange.fr<br />
+                Direction commerciale : M. Alexandre Richard – arichard.Eclairage 3000@orange.fr<br />
+                Administration : M. Julien Finez – jfinez.Eclairage 3000@orange.fr<br />
+                Industrialisation : M. Régis Marquette – rmarquette.Eclairage 3000@orange.fr<br />
+                Bureau d’études : M. Augustin Ségard – asegard.Eclairage 3000@orange.fr<br />
+                Service qualité : contact.Eclairage 3000@orange.fr<br />
                 Ainsi que des techniciens qualifiés.
             subheading4: "Nos partenaires"
         galery:
@@ -239,7 +239,7 @@ views:
             login:
                 title1: "Connexion"
                 title2: "Avec votre compte :"
-                title3: "Ou avec votre compte feel-lighting.fr"
+                title3: "Ou avec votre compte Eclairage 3000-lighting.fr"
                 login: "Connexion"
                 register: "Inscription"
     itemhome:
