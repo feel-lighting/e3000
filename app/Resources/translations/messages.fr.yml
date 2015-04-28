@@ -183,27 +183,17 @@ views:
             title: "Qui sommes-nous ?"
             subheading1: "Historique"
             paragraph1-1: >
-                <strong>1er avril 2002</strong><br />
-                Création de la société Eclairage 3000 LIBRA (S.A.R.L.) par M. Alexandre RICHARD.<br/>
-                Deux activités distinctes cohabitent :<br/>
-                - La fabrication de balance Roberval (suite à la reprise de l’outil TESTUT)<br/>
-                - La sous-traitance de faisceaux & fabrication de cartes électroniques<br/><br/>
-                <strong>Septembre 2004</strong><br />
-                Première réalisation significative avec la réalisation du « Cercle de Buren » pour Lille 2004, du nom de l’architecte.<br />
+                <strong>1938</strong><br />
+                Création de la société Clarel, fabricant de luminaires industriels<br /><br />
+                <strong>1990</strong><br />
+                3 groupes : Accec, Fluorel et Eurindus décident de se regrouper pour améliorer leurs synergies respectives.<br />
             paragraph1-2: >
-                <strong>Décembre 2007</strong><br />
-                Conception du premier projecteur à LED de scène (PAR36).<br /><br />
-                <strong>Mai 2009</strong><br />
-                Arrivée dans ses locaux.<br /><br />
-                <strong>Juillet 2009</strong><br />
-                Création d’une gamme de dispositifs d’éclairage « Eclairage 3000 » fabriqués en France et d’un département ReeEclairage 3000 dédié à l’éclairage récifal pour aquariums.<br /><br />
-                <strong>Août 2011</strong><br />
-                La société Eclairage 3000 évolue et change son statut en SAS (société par action simplifiée).<br /><br />
-                <strong>Janvier 2013</strong><br />
-                Augmentation du capital social par incorporation de réserve pour atteindre 112 710€.<br />
-                Création des premières applications des éclairages à LED secteur (DDR).<br /><br />
-                <strong>Janvier 2015</strong><br />
-                Déploiement de l’effectif du bureau d’études.<br />
+                <strong>2007</strong><br />
+                Eurindus change d’actionnaires et de nom pour devenir Eclairage 3000<br /><br />
+                <strong>2008</strong><br />
+                D’importants investissements sont réalisés dans les outils de production.<br /><br />
+                <strong>2011 - 2015</strong><br />
+                Développement de produits innovants à base de LED.<br />
             subheading2: "Nos produits"
             paragraph2-1: >
                 Depuis 2009, la société Eclairage 3000 s’est spécialisée dans <strong>l’étude et la fabrication de dispositifs d’éclairage à LED</strong> et se distingue par sa capacité d’innovation et sa réactivité.<br />
@@ -214,12 +204,7 @@ views:
                 L’étude et la réalisation de nos produits fabriqués en France sont réalisées selon des critères de qualité internes similaires à la norme ISO 9001 v2000.<br />
             subheading3: "L'équipe"
             paragraph3: >
-                Direction commerciale : M. Alexandre Richard – arichard.Eclairage 3000@orange.fr<br />
-                Administration : M. Julien Finez – jfinez.Eclairage 3000@orange.fr<br />
-                Industrialisation : M. Régis Marquette – rmarquette.Eclairage 3000@orange.fr<br />
-                Bureau d’études : M. Augustin Ségard – asegard.Eclairage 3000@orange.fr<br />
-                Service qualité : contact.Eclairage 3000@orange.fr<br />
-                Ainsi que des techniciens qualifiés.
+                "En cours...."
             subheading4: "Nos partenaires"
         galery:
             title: "Galerie"
@@ -246,10 +231,10 @@ views:
         index:
             title: "Eclairage 3000, l’expert français de la LED de puissance"
             feel: "Eclairage 3000 c'est :"
-            hometitle1: "Société lilloise créée en 2002"
-            homepara1: "Spécialisée dans l’étude et la fabrication de dispositifs d’éclairage à LED, Eclairage 3000 se distingue par sa capacité d’innovation et sa réactivité"
+            hometitle1: "Spécialiste dans la production de luminaires industriels"
+            homepara1: "Elle se différencie des autres fabricants par son savoir- faire et les investissements réalisés dans les outils de productions et la R&D notamment sur les nouveaux produits à base de LED de puissance sur le site de Roubaix"
             hometitle2: "Maîtrise des technologies"
-            homepara2: "Le management thermique, l’optique et bien entendu les platines à LED pilotées par des alimentations également conçues en interne."
+            homepara2: "Le management thermique, l’optique et bien entendu les platines à LED pilotées par des alimentations également conçues en interne. Notre statut de fabricant nous permet d’adapter les produits du catalogue aux besoins spécifiques des clients."
             hometitle3: "Eclairage 3000 c'est aussi..."
             homepara3: " L’association de solutions solaires, éolienne, détection de présence, communication RF. Cela nous permet de répondre aux exigences techniques des clients aux conditions économiques définies à l’origine du projet."
             hometitle4: "Fabrication française"

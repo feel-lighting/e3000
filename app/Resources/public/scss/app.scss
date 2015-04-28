@@ -57,7 +57,7 @@ div.sticky {
 
 @media only screen and (min-width: 40em) {
     .footer {
-        background-color: $darkblue;
+        background-color: $blue;
         padding: 1rem 2rem;
         text-align: center;
         margin-top: -$heightfooter;
@@ -75,7 +75,7 @@ div.sticky {
     .footer {
         height: $heightfootersmall;
         margin-top: -$heightfootersmall;
-        background-color: $darkblue;
+        background-color: $blue;
         padding: 1rem 2rem;
         text-align: center;
         color: $white;
@@ -187,7 +187,10 @@ span.logo-small-vendor {
 
 /************************ Top bar **************/
 img.img-navbar{
-    height: 70px;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 25px;
 }
 /************** COLOR **********************/
 .bg-lightwhite {
